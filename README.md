@@ -1,4 +1,4 @@
-# tezos-install.sh
+# tezos-deploy.sh
 One click installation script for Tezos Deployment
 
 With the script I wrote, an XTZ full node is deployed on an empty Ubuntu machine:
